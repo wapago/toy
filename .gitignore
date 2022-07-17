@@ -32,3 +32,6 @@ bin/
 /.gradle/buildOutputCleanup/outputFiles.bin
 /build/tmp/compileJava/previous-compilation-data.bin
 /.gradle/7.4.1/fileHashes/resourceHashesCache.bin
+/.gradle/7.4.1/checksums/md5-checksums.bin
+/.gradle/7.4.1/checksums/sha1-checksums.bin
+/build/classes/java/main/com/wapago/toy/config/SwaggerConfig.class
